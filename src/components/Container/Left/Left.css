@@ -1,0 +1,37 @@
+.left {
+    width: 100%;
+}
+
+.clock {
+    font-size: 50px;
+    color: gray;
+}
+
+.time {
+    margin-left: 10px;
+}
+
+.times {
+    display: flex;
+    align-items: center;
+}
+
+.preffered {
+    margin-top: 20px;
+}
+
+.experience {
+    margin: 20px 0 5px 0;
+}
+
+.projects {
+    margin: 20px 0 3px 0;
+}
+
+.a {
+    text-decoration: underline;
+}
+
+.a:hover {
+    text-decoration: none;
+}

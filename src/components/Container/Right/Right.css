@@ -1,0 +1,44 @@
+.child-left, .child-left-second, .child-left-third {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.skills, .about, .contact {
+    width: 100%;
+    text-align: justify;
+}
+
+.h1 {
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: gray;
+}
+
+.skills, .about, .contact {
+    border: 1px solid gainsboro;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.empty {
+    align-items: center;
+}
+
+.empty img {
+    width: 250px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.social-link a {
+    margin-right: 10px;
+    text-decoration: underline;
+}
+
+.social-link a:hover {
+    text-decoration: none;
+}

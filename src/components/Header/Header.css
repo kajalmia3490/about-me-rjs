@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #0F256E;
+    height: 60px;
+    align-items: center;
+    padding: 0 140px;
+}
+
+.child-header {
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+.dev-icon {
+    margin-right: 10px;
+    color: white;
+}
+
+.header-btn {
+    font-size: medium;
+    background-color: white;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 3px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.header-btn:hover {
+    color: white;
+    background-color: tomato;
+}

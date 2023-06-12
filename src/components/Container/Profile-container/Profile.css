@@ -1,0 +1,49 @@
+/* profile info */
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.image img {
+    width: 325px;
+    height: 370px;
+    border-radius: 5px 5px 5px 50px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.location {
+    margin-bottom: 20px;
+}
+
+.profile-text {
+    margin-left: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.profile-complement {
+    margin: 10px auto;
+    line-height: 1.5rem;
+    text-align: justify;
+}
+
+.btn-group {
+    margin-top: 10px;
+    display: block;
+}
+
+.top {
+    display: flex;
+}
+
+.bottom {
+    display: flex;
+}
+
+.vartical {
+    font-size: 50px;
+    font-weight: bold;
+    color: #0F256E;
+}
